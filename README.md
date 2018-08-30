@@ -8,6 +8,5 @@ A simple mobile application calculator created in Android Studio.
 </figure>
 </div>
 <br><br>
-<p align="center">
-   <img  src="./images/calc.png"  width="60%"  height="60%"/><br>
-</p>
+<img  src="./images/calc.png"  width="40%"  height="40%"/><br>
+
